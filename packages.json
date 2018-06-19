@@ -505,6 +505,13 @@
     "repo": "https://github.com/slamdata/purescript-halogen.git",
     "version": "v4.0.0"
   },
+  "halogen-css": {
+    "dependencies": [
+      "css"
+    ],
+    "repo": "https://github.com/slamdata/purescript-halogen-css.git",
+    "version": "v8.0.0"
+  },
   "halogen-vdom": {
     "dependencies": [
       "bifunctors",
